@@ -23,7 +23,7 @@ The game aims to make financial literacy fun and accessible. Whether you're a be
 - [YFinance](https://pypi.org/project/yfinance/) (for optional data integration)
 - Custom JSON-based news and financial data
 
-## 🙌 Credits
+## Credits
 
 This project was developed with the collaboration and support of:
 
